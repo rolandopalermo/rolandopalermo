@@ -9,13 +9,7 @@ Nice to meet you! My name is Rolando Palermo. I'm currently working as E-Invoici
 <a href="https://github.com/rolandopalermo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rolandopalermo&theme=radical&hide=glsl,python" />
 </a>
+<br/>
 <a href="https://github.com/rolandopalermo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rolandopalermo&show_icons=true&theme=radical&line_height=27" alt="RolandoPalermo's github stats" />
-</a>
-
-<a href="https://github.com/rolandopalermo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rolandopalermo&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/rolandopalermo/rolandopalermo.github.io">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rolandopalermo&repo=rolandopalermo.github.io&theme=radical" />
 </a>
