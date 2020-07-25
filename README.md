@@ -13,3 +13,6 @@ Nice to meet you! My name is Rolando Palermo. I'm currently working as E-Invoici
 <a href="https://github.com/rolandopalermo/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rolandopalermo&theme=dracula" />
 </a>
+
+## My E-Invoicing platforms
+- [https://veronica-api-sbox.rolandopalermo.com/swagger-ui.html](https://veronica-api-sbox.rolandopalermo.com/swagger-ui.html)
