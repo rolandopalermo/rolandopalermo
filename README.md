@@ -4,3 +4,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-RolandoPalermo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rolandopalermo/)](https://www.linkedin.com/in/rolandopalermo/)
 
 Nice to meet you! My name is Rolando Palermo. I'm currently working as E-Invoicing specialist for many companies in Latin America. I ocassionally blog and tweet about Java and microservices at my [personal blog](http://blog.rolandopalermo.com/).
+
+![RolandoPalermo's github stats](https://github-readme-stats.vercel.app/api?username=rolandopalermo&show_icons=true&theme=radical)
