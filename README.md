@@ -5,4 +5,17 @@
 
 Nice to meet you! My name is Rolando Palermo. I'm currently working as E-Invoicing specialist for many companies in Latin America. I ocassionally blog and tweet about Java and microservices at my [personal blog](http://blog.rolandopalermo.com/).
 
-![RolandoPalermo's github stats](https://github-readme-stats.vercel.app/api?username=rolandopalermo&show_icons=true&theme=radical)
+## Rolando Palermo's GitHub Stats
+<a href="https://github.com/rolandopalermo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.rolandopalermo1.vercel.app/api/top-langs/?username=rolandopalermo&theme=radical&hide=glsl,python" />
+</a>
+<a href="https://github.com/rolandopalermo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.rolandopalermo1.vercel.app/api?username=rolandopalermo&show_icons=true&theme=radical&line_height=27" alt="RolandoPalermo's github stats" />
+</a>
+
+<a href="https://github.com/rolandopalermo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.rolandopalermo1.vercel.app/api/pin/?username=rolandopalermo&repo=github-readme-stats&theme=radical" />
+</a>    
+<a href="https://github.com/rolandopalermo/rolandopalermo.github.io">
+  <img align="center" src="https://github-readme-stats.rolandopalermo1.vercel.app/api/pin/?username=rolandopalermo&repo=rolandopalermo.github.io&theme=radical" />
+</a>
