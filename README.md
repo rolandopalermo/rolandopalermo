@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-RolandoPalermo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rolandopalermo/)](https://www.linkedin.com/in/rolandopalermo/)
 
 Nice to meet you! My name is Rolando Palermo.
-I'm currently working as E-Invoicing specialist for many companies in Latin America. I ocassionally blog and tweet about Java and microservices at [https://blog.rolandopalermo.com](http://blog.rolandopalermo.com/)
+I'm currently working as E-Invoicing specialist for many companies in Latin America.
 
 ## My E-Invoicing platforms
 - [https://veronica-api-sbox.rolandopalermo.com/swagger-ui.html](https://veronica-api-sbox.rolandopalermo.com/swagger-ui.html)
