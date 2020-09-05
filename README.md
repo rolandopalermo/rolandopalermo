@@ -8,12 +8,3 @@ Nice to meet you! My name is Rolando Palermo. I'm currently working as E-Invoici
 ## My E-Invoicing platforms
 - [https://veronica-api-sbox.rolandopalermo.com/swagger-ui.html](https://veronica-api-sbox.rolandopalermo.com/swagger-ui.html)
 - [https://veronica-api.rolandopalermo.com/swagger-ui.html](https://veronica-api.rolandopalermo.com/swagger-ui.html)
-
-## Rolando Palermo's GitHub Stats
-<a href="https://github.com/rolandopalermo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rolandopalermo&show_icons=true&theme=dracula&line_height=27" alt="RolandoPalermo's github stats" />
-</a>
-<br/>
-<a href="https://github.com/rolandopalermo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rolandopalermo&theme=dracula" />
-</a>
