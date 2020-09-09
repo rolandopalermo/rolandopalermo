@@ -4,7 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-RolandoPalermo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rolandopalermo/)](https://www.linkedin.com/in/rolandopalermo/)
 
 Nice to meet you! My name is Rolando Palermo.
-I'm currently working as E-Invoicing specialist for many companies in Latin America.
+- Electronic invoicing specialist with more than 8 years of experience designing and developing architectures for companies from Ecuador, Peru and Colombia using Java, XML, SOAP, REST API, UBL 2.0/2.1, XAdES-BES, XAdES-EPES
+- Upgrades and enhancements according to the requirements of the tax authorities: SRI, DIAN, SUNAT
 
 ## My E-Invoicing platforms
 
