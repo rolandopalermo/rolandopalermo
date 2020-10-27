@@ -10,5 +10,5 @@ Nice to meet you! My name is Rolando Palermo.
 ## My E-Invoicing platforms
 
 ### Ecuador
-- [https://veronica-api-sbox.rolandopalermo.com/swagger-ui.html](https://veronica-api-sbox.rolandopalermo.com/swagger-ui.html)
+- [http://144.91.115.93:8080/swagger-ui.html](http://144.91.115.93:8080/swagger-ui.html)
 - [https://veronica-api.rolandopalermo.com/swagger-ui.html](https://veronica-api.rolandopalermo.com/swagger-ui.html)
