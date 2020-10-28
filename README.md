@@ -13,7 +13,7 @@ Nice to meet you! My name is Rolando Palermo.
 - [https://veronica-api-sbox.rolandopalermo.com/swagger-ui.html](https://veronica-api-sbox.rolandopalermo.com/swagger-ui.html)
 - [https://veronica-api.rolandopalermo.com/swagger-ui.html](https://veronica-api.rolandopalermo.com/swagger-ui.html)
 
-### Achieved Certifications
+## Achieved Certifications
 
 | <img src="https://github.com/rolandopalermo/rolandopalermo/blob/master/ocpjp6.png" width=150 align=right> | <img src="https://github.com/rolandopalermo/rolandopalermo/blob/master/clf01.png" width=150 align=right> |
 | ------------- | ------------- |
