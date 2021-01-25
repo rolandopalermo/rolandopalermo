@@ -10,8 +10,8 @@ Nice to meet you! My name is Rolando Palermo.
 ## My E-Invoicing platforms
 
 ### Ecuador
-- [https://veronica-api-sbox.rolandopalermo.com/swagger-ui.html](https://veronica-api-sbox.rolandopalermo.com/swagger-ui.html)
-- [https://veronica-api.rolandopalermo.com/swagger-ui.html](https://veronica-api.rolandopalermo.com/swagger-ui.html)
+- [https://api-sbox.veronica.ec/swagger-ui.html](https://api-sbox.veronica.ec/swagger-ui.html)
+- [https://api.veronica.ec/swagger-ui.html](https://api.veronica.ec/swagger-ui.html)
 
 ### Apache-Camel integration
 - [https://distarias-factelec-sbox.rolandopalermo.com/api/api-doc/swagger.json](https://distarias-factelec-sbox.rolandopalermo.com/api/api-doc/swagger.json)
